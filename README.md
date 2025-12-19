@@ -18,7 +18,7 @@ In addition, I provide reliable virtual assistant support that keeps businesses 
 ## 🧰 My Toolbox
 
 - **Languages:** Python, JavaScript (Node.js), HTML/CSS, SQL, TypeScript
-- **Frameworks:** Django, Express.js, React
+- **Frameworks:** Django, FastAPI, Express.js, React
 - **Other:** REST APIs, SEO Writing, System Design, Virtual Assistance, Debugging
 
 ---
