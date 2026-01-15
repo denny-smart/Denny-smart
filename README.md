@@ -58,5 +58,5 @@ I am a **solutions architect** dedicated to building systems that are both techn
 
 <div align="center">
 <p><i>🌱 Always learning | 🚀 Always building | ❤️ Always giving back</i></p>
-<p><i>System Status: Operational 🟢</i></p>
+<p><i>System Status: **Online & Operational** 🟢</i></p>
 </div>
