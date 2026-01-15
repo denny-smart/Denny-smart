@@ -14,7 +14,7 @@
 I am a **solutions architect** dedicated to building systems that are both technically solid and genuinely helpful. With a core focus on **Python, Django & FastAPI**, I turn complex problems into streamlined, automated realities. 
 
 *   **Mission:** To save time, reduce costs, and increase efficiency through code.
-*   **Approach:** Results-focused. I don't just write code; I deliver competitive edges.
+*   **Strategy:** I leverage **AI-driven development tools** to accelerate implementation, enabling a laser focus on **strategic planning** and **robust architecture**.
 
 ---
 
