@@ -37,9 +37,9 @@ I am a **solutions architect** dedicated to building systems that are both techn
 
 <div align="center">
 
-![Denny's Stats](https://denny-rosy.vercel.app/api?username=denny-smart&show_icons=true&theme=midnight&hide_border=true&bg_color=0D1117&icon_color=20F20F&title_color=20F20F&text_color=FFFFFF)
+![Denny's Stats](https://denny-rosy.vercel.app/api?username=denny-smart&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://denny-rosy.vercel.app/api/top-langs/?username=denny-smart&layout=compact&theme=midnight&hide_border=true&bg_color=0D1117&title_color=20F20F&text_color=FFFFFF)
+![Top Langs](https://denny-rosy.vercel.app/api/top-langs/?username=denny-smart&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
